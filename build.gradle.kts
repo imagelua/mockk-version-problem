@@ -12,7 +12,6 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
     testImplementation("io.mockk:mockk:1.14.5")
-    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.25!!")
 }
 
 tasks.test {
