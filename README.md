@@ -5,4 +5,3 @@
 ./gradlew test --info
 ```
 
-# my output
